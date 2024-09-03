@@ -1,0 +1,9 @@
+.tabla_empleados {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+.cabecera {
+  background-color: aqua;
+  border-radius: 5px;
+}

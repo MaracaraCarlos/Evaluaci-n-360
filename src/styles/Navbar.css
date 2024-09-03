@@ -1,0 +1,12 @@
+nav {
+  background-color: aqua;
+  min-height: 100vh;
+  padding: 10px;
+}
+.logo_container {
+  height: 50px;
+  width: 50px;
+}
+.logo_container img {
+  height: 100%;
+}

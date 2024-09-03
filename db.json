@@ -1,0 +1,116 @@
+{
+  "personas": [
+    {
+      "id": "1",
+      "nombre": "Arto Hellas",
+      "edad": "32",
+      "telefono": "040-123456",
+      "lugar": "Santiago, Chile",
+      "departamento": "Desarrollo",
+      "profesion": "Backend",
+      "salario": "5000",
+      "completado": false,
+      "evaluaciones": {
+        "escala": {
+          "autoconciencia": null,
+          "resultados": null,
+          "liderazgo": null,
+          "comunicacion": null,
+          "equipo": null
+        },
+        "selecion-simple": {
+          "trabajo": null
+        },
+        "texto": {
+          "hace-bien": [],
+          "puede-mejorar": [],
+          "comentario-al-jefe": []
+        }
+      }
+    },
+    {
+      "id": "2",
+      "nombre": "Ada Lovelace",
+      "edad": "36",
+      "telefono": "39-44-5323523",
+      "lugar": "Buenos Aires, Argentina",
+      "departamento": "Diseño",
+      "profesion": "UI Designer",
+      "salario": "6500",
+      "completado": false,
+      "evaluaciones": {
+        "escala": {
+          "autoconciencia": 0,
+          "resultados": 0,
+          "liderazgo": 0,
+          "comunicacion": 0,
+          "equipo": 0
+        },
+        "selecion-simple": {
+          "trabajo": 0
+        },
+        "texto": {
+          "hace-bien": [],
+          "puede-mejorar": [],
+          "comentario-al-jefe": []
+        }
+      }
+    },
+    {
+      "id": "3",
+      "nombre": "Dan Abramov",
+      "edad": "27",
+      "telefono": "12-43-234345",
+      "lugar": "Caracas, Venezuela",
+      "departamento": "Desarrollo",
+      "profesion": "Frontend",
+      "salario": "4500",
+      "completado": false,
+      "evaluaciones": {
+        "escala": {
+          "autoconciencia": 0,
+          "resultados": 0,
+          "liderazgo": 0,
+          "comunicacion": 0,
+          "equipo": 0
+        },
+        "selecion-simple": {
+          "trabajo": 0
+        },
+        "texto": {
+          "hace-bien": [],
+          "puede-mejorar": [],
+          "comentario-al-jefe": []
+        }
+      }
+    },
+    {
+      "id": "4",
+      "nombre": "Mary Poppendieck",
+      "edad": "25",
+      "telefono": "39-23-6423122",
+      "lugar": "Montevideo, Uruguay",
+      "departamento": "Diseño",
+      "profesion": "UX Designer",
+      "salario": "4500",
+      "completado": false,
+      "evaluaciones": {
+        "escala": {
+          "autoconciencia": 0,
+          "resultados": 0,
+          "liderazgo": 0,
+          "comunicacion": 0,
+          "equipo": 0
+        },
+        "selecion-simple": {
+          "trabajo": 0
+        },
+        "texto": {
+          "hace-bien": [],
+          "puede-mejorar": [],
+          "comentario-al-jefe": []
+        }
+      }
+    }
+  ]
+}
